@@ -22,6 +22,6 @@ moderno à Inteligência Artificial para criar aplicações rápidas, escalávei
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fagner-silva-446616215)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-8561-0645)
 
-#### 📊 GitHub Stats
+#### 📊 GitHub
 ![Stats](https://github-readme-stats.vercel.app/api?username=Fagner86&show_icons=true&locale=pt-br)
 ![Streak](https://streak-stats.demolab.com?user=Fagner86&locale=pt_BR)
