@@ -24,3 +24,4 @@ moderno à Inteligência Artificial para criar aplicações rápidas, escalávei
 
 #### 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Fagner86&show_icons=true&locale=pt-br)
+![Streak](https://streak-stats.demolab.com?user=Fagner86&locale=pt_BR)
